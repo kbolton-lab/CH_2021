@@ -12,4 +12,4 @@ We deposited data of both SNVs/indels and CNAs on Japanese Genome-phenotype Arch
 Clinical data used in the analysis will be provided by [Biobank Japan](https://biobankjp.org/en/index.html) upon request.
 
 ## Contact
-If any question on the source code and our paper, feel free to contact [Saiki](<mailto:saikiryunosuke@gmail.com>).
+If any question on the source code, feel free to contact [Saiki](<mailto:saikiryunosuke@gmail.com>).
