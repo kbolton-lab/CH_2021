@@ -6,7 +6,7 @@
 Following genomic and clinical data are required to run these scripts.
 
 ### Genomic data
-We deposited data of both SNVs/indels and CNAs on Japanese Genome-phenotype Archive ([JGA](https://www.ddbj.nig.ac.jp/jga)) under accession code JGAD00000000XXX.
+We deposited data of both SNVs/indels and CNAs on Japanese Genome-phenotype Archive ([JGA](https://www.ddbj.nig.ac.jp/jga)) under accession code JGAS000293.
 
 ### Clinical data
 Clinical data used in the analysis will be provided by [Biobank Japan](https://biobankjp.org/en/index.html) upon request.
