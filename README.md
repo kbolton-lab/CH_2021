@@ -1,6 +1,6 @@
 # CH_2021
 ## Source code in "Combined landscape of single-nucleotide variants and copy-number alterations in clonal hematopoiesis".
-[Saiki R, Momozawa Y, Nannya Y, ... , Ogawa S, Nature Medicine, XX, XXXX-XXXX, 2021.](URL)
+[Saiki R, Momozawa Y, Nannya Y, ... , Ogawa S, Nature Medicine, XX, XXXX-XXXX, 2021.](https://www.nature.com/articles/s41591-021-01411-9)
 
 ## Requirements to run the scripts
 Following genomic and clinical data are required to run these scripts.
